@@ -1,0 +1,7 @@
+name: TestCustomUI
+main: Terpz710\TestCustomUI\Loader
+version: 1.0.1
+api: 5.0.0
+authors:
+- XenialDan
+- Terpz710
